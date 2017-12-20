@@ -1,0 +1,66 @@
+html{
+  background:url(https://s16.postimg.org/jz2csz379/background.jpg)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Play', sans-serif;
+}
+.prof-box{
+	width: 500px;
+	height: 1500px;
+	background-color: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 500px;
+}
+.prof-pic{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+h1{
+	font-weight: 100;
+	
+	font-size: 40px;
+}
+.p1{
+	font-weight: 200;
+	letter-spacing: 1;
+	font-size: 15px;
+}
+.soical-icon{
+	font-size: 40px;
+	color:white;
+}
+.soical-icon a{
+	
+	color:white;
+}
+
+.table{font-family: 'Play', sans-serif; 
+color: white;
+align-content: left;
+padding: 20px;
+font-size: 20px;}
+
+.line-break{
+	width: 500px;
+	border-top: 1px solid white;
+}
+.line-title{
+	width: 300px;
+	border-top: 1px solid white;
+}
+.title{
+	color: white;
+
+	text-align: left;
+	font-weight: 200;
+	font-style: bold;
+	letter-spacing: 1;
+	font-size: 25px;
+}
